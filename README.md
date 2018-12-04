@@ -4,6 +4,8 @@ Don't like google maps new pay scheme? This should help.
 
 All credit to iniamudhan. This is all his work, I am just going to try to add heatmapping.
 
+Yarn to start not npm
+
 ## Introduction
 
 React-Bingmaps is a react.js version of [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx)
